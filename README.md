@@ -1,6 +1,11 @@
 # cloudflare2vless
 在cloudflare上通过work部署代码，成为v2ray的服务节点，代码参考
 优选地址工具
+
+代理地址的选择问题：
+使用正常的：let proxyIP = '103.200.112.108';
+
+
 详细使用说明请看：
 
 Github：https://github.com/XIU2/CloudflareSpeedTest
